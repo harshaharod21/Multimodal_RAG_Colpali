@@ -1,0 +1,12 @@
+transformers
+torch
+colpali-engine==0.2.2
+pdf2image
+google-generativeai
+bitsandbytes
+gradio
+tqdm
+Pillow
+poppler-utils
+python-dotenv
+mteb
